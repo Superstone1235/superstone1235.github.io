@@ -847,7 +847,7 @@ div.unread-mentions-indicator-bottom {
     color: var(--unread-text-color);
 }
 
-#bd-pub-li {
+#bd-pub-li #bd-pub-button {
     border-radius: 25px !important;
     background: #2f3136 !important;
 }
