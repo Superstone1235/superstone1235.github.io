@@ -4,6 +4,10 @@ html {
     font-size: var(--font-size) !important;
 }
 
+.win-buttons .win-minimize, .win-buttons .win-maximize, .win-buttons .win-close {
+    background-color: rgba(255, 0, 0, 0.3)!important;
+}
+
 .container-2lgZY8 {
     background-color: rgba(0, 0, 0, 0);
 }
