@@ -584,7 +584,6 @@ div.unread-mentions-indicator-bottom {
 }
 
 #bd-pub-li #bd-pub-button {
-    position:absolute;
     width: 100%;
     text-align: center;
 }
